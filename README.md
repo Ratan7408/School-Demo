@@ -1,6 +1,20 @@
+Project Title
+CRUD Application
+
+This project is a simple CRUD (Create, Read, Update, Delete) application built using PHP. It demonstrates the implementation of basic database operations and serves as a foundation for more complex web applications.
+
+Features
+Create: Add new records to the database.
+Read: Display existing records in a user-friendly interface.
+Update: Modify existing records.
+Delete: Remove records from the database.
+Modular design with reusable PHP classes.
+Organized folder structure for scalability.
 Folder Structure
 bash
 Copy code
+
+
 ├── assets/         # Contains static files like CSS, JS, images
 ├── config/         # Configuration files (e.g., database connection)
 ├── includes/       # Shared components (e.g., header, footer)
@@ -11,6 +25,8 @@ Copy code
 ├── index.php       # Main dashboard or home page
 ├── view.php        # Detailed view of a single record
 └── README.md       # Project documentation
+
+
 Prerequisites
 To run this project, ensure you have the following installed:
 
